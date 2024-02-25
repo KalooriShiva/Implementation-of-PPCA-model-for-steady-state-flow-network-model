@@ -7,14 +7,7 @@ This repository delves into the exploration of efficient feature extraction and 
 Key Features:
 
 Flow Network Simulation: Implements a simulation function to generate realistic flow network datasets.
+PCA Model: Provides a well-structured implementation of PCA to extract relevant features and identify the steady-state flow network model.
+PPCA with MLE and EM: Implements both MLE and EM algorithms for PPCA, offering flexibility in model selection and comparison.
+Comprehensive Documentation: Includes detailed explanations of the implemented algorithms, their theoretical foundations, and usage instructions.
 
-PCA Model: 
-Provides a well-structured implementation of PCA to extract relevant features and identify the steady-state flow network model.
-PPCA with MLE and EM: 
-Implements both MLE and EM algorithms for PPCA, offering flexibility in model selection and comparison.
-Comprehensive Documentation: 
-Includes detailed explanations of the implemented algorithms, their theoretical foundations, and usage instructions.
-Clear Code Structure: 
-Adheres to best practices for code organization, readability, and maintainability.
-Testing and Validation: 
-Incorporates unit tests to ensure the correctness and robustness of the implemented algorithms.
